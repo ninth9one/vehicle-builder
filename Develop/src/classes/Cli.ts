@@ -263,7 +263,7 @@ class Cli {
           answers.model,
           parseInt(answers.year),
           parseInt(answers.weight),
-          parseInt(answers.toSpeed),
+          parseInt(answers.topSpeed),
           [],
         )
         // TODO: push the motorbike to the vehicles array
