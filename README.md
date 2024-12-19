@@ -23,11 +23,10 @@ npm install
 
 ## Usage
 
-Visit the [Vehicle Builder GitHub page](https://github.com/ninth9one/vehicle-builder) for full instructions. After installing the application locally, start the development server using:
 
 npm start
 
-Follow the Cli prompts
+Follow the Cli prompts and you will be able to create and choose vehicles
 
 ## Contributing
 
